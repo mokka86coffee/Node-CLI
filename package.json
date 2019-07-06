@@ -20,5 +20,8 @@
   "devDependencies": {
     "lodash": "^4.17.11",
     "minimist": "^1.2.0"
+  },
+  "dependencies": {
+    "get-stdin": "^7.0.0"
   }
 }
