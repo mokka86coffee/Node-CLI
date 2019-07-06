@@ -1,0 +1,24 @@
+{
+  "name": "Project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokka86coffee/Node-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokka86coffee/Node-CLI/issues"
+  },
+  "homepage": "https://github.com/mokka86coffee/Node-CLI#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0"
+  }
+}
